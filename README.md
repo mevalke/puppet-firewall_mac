@@ -1,4 +1,4 @@
-# puppet-firefall_mac
+# puppet-firewall_mac
 
 #### Table of Contents
 
