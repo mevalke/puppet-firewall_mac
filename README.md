@@ -1,4 +1,4 @@
-# firefall_mac
+# puppet-firefall_mac
 
 #### Table of Contents
 
@@ -30,6 +30,6 @@ class { 'firewall_mac':
 
 Any form of contribution is welcomed.
 
-## Release Notes/Contributors/Etc. **Optional**
+## Release Notes
 
 0.1.0: First release
