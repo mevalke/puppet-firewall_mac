@@ -14,7 +14,7 @@ This module enables or disables the MacOS firewall.
 
 ## Setup
 
-### Setup Requirements **OPTIONAL**
+### Setup Requirements 
 
 Install the [defines module](https://github.com/mevalke/puppet-defines.git).
 
