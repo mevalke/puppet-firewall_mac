@@ -20,10 +20,9 @@ Install the [defines module](https://github.com/mevalke/puppet-defines.git).
 
 ## Usage
 
+In Hiera:
 ```
-class { 'firewall_mac':
-  state => 1
-}
+firewall_mac_state: 1
 ```
 
 ## Development
